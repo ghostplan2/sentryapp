@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sentry/static/css/main.5df7d988.css",
+    "main.js": "/sentry/static/js/main.40c9eb04.js",
+    "main.js.map": "/sentry/static/js/main.40c9eb04.js.map",
+    "index.html": "/sentry/index.html",
+    "precache-manifest.66cb5b53009df84757eba1d648beba9a.js": "/sentry/precache-manifest.66cb5b53009df84757eba1d648beba9a.js",
+    "service-worker.js": "/sentry/service-worker.js",
+    "static/css/main.5df7d988.css.map": "/sentry/static/css/main.5df7d988.css.map",
+    "static/js/main.40c9eb04.js.LICENSE": "/sentry/static/js/main.40c9eb04.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/css/main.5df7d988.css",
+    "static/js/main.40c9eb04.js"
+  ]
+}
